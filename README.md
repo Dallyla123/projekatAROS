@@ -19,7 +19,7 @@ Pokretanjem oba potprograma u jednom prozoru, ostvaruje se jednostavna komunikac
 
 Potrebno je klonirati ili downloadovati projekat:
 
-git link
+[git link](https://github.com/Dallyla123/projekatAROS)
 
 Nakon toga potrebno je pozicionirati se u direktorijum koji sadrži projekat
 
